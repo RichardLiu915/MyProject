@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/Coinsbtn.png</file>
+        <file>res/Leaderboard btn.png</file>
+        <file>res/mainbg.png</file>
+        <file>res/Menu btn.png</file>
+        <file>res/Music btn.png</file>
+        <file>res/Pause btn.png</file>
+        <file>res/Play btn.png</file>
+        <file>res/Reload btn.png</file>
+        <file>res/Sound btn.png</file>
+        <file>res/mainscenebold.PNG</file>
+        <file>res/Easy.png</file>
+        <file>res/Hard btn.png</file>
+        <file>res/Medium btn.png</file>
+        <file>res/Help btn.png</file>
+        <file>res/rect001.png</file>
+        <file>res/Back btn.png</file>
+        <file>res/Forward btn.png</file>
+        <file>res/BGM.mp3</file>
+        <file>res/Btn.wav</file>
+        <file>res/Level Cleared_gaitubao_402x441.png</file>
+        <file>res/Level Clearedpaihang_gaitubao_401x440.png</file>
+        <file>res/Level Clearedzuozhe_gaitubao_402x441.png</file>
+        <file>res/X icon.png</file>
+        <file>res/Ban.png</file>
+        <file>res/Info btn.png</file>
+        <file>res/gmae.wav</file>
+        <file>res/Level Cleared_gaitubao_402x44102.png</file>
+        <file>res/Level Clearedpaihang.png</file>
+    </qresource>
+</RCC>
